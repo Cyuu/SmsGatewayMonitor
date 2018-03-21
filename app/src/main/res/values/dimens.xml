@@ -1,0 +1,15 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="margin_dialog">16dp</dimen>
+    <dimen name="margin_layout">12dp</dimen>
+    <dimen name="margin_tv">8dp</dimen>
+    <dimen name="padding_tv">5dp</dimen>
+    <dimen name="padding_layout">10dp</dimen>
+    <dimen name="corner_cardview">5dp</dimen>
+
+    <dimen name="txt_tv">15sp</dimen>
+    <dimen name="txt_mini">10dp</dimen>
+    <dimen name="txt_title">18dp</dimen>
+
+</resources>
